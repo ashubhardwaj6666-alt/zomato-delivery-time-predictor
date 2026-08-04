@@ -5,7 +5,7 @@ A machine learning web app that predicts food delivery time from order, delivery
 ## 🔗 Live Demo
 
 > _Add your Streamlit Community Cloud link here after deploying, e.g._
-> **[Try it live →]([https://zomato-delivery-time-predictor.streamlit.app/])**
+> **[Try it live →](https://zomato-delivery-time-predictor.streamlit.app/)**
 
 ## 📋 Overview
 
