@@ -86,7 +86,8 @@ The raw dataset is collected *retrospectively* — it logs delivery-partner deta
 
 ## 📸 Screenshots
 
-> _Add a screenshot or two of the running app here once deployed._
+<img width="1888" height="921" alt="image" src="https://github.com/user-attachments/assets/97cf2ef7-c04f-4a70-b0bd-fcf2bf6135f7" />
+
 
 ## 📄 License
 
@@ -94,7 +95,7 @@ Released under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-**Your Name** — add links to your GitHub, LinkedIn, or portfolio here.
+**Ashutosh Bhardwaj**
 
 ---
 *Portfolio project — not affiliated with, endorsed by, or sponsored by Zomato Media Pvt. Ltd.*
