@@ -5,11 +5,11 @@ A machine learning web app that predicts food delivery time from order, delivery
 ## 🔗 Live Demo
 
 > _Add your Streamlit Community Cloud link here after deploying, e.g._
-> **[Try it live →](https://your-app-name.streamlit.app)**
+> **[Try it live →]([https://your-app-name.streamlit.app](https://zomato-delivery-time-predictor.streamlit.app/))**
 
 ## 📋 Overview
 
-This project walks through a complete regression workflow: exploratory data analysis, missing-value imputation, feature engineering, outlier treatment, multicollinearity checks, encoding, scaling, model training, and statistical validation — then wraps the trained model in a usable, realistically-designed web app.
+This project walks through a complete regression workflow: exploratory data analysis, missing-value imputation, feature engineering, outlier treatment, multicollinearity checks, encoding, scaling, model training, and statistical validation — then wraps the trained model in a usable, realistically designed web app.
 
 ## 🧠 How It Works
 
@@ -30,7 +30,7 @@ Live R², Adjusted R², RMSE, and MAE on the held-out test set are shown in the 
 ## 🖥️ App Features
 
 - **Simple, realistic form** — only asks what a real customer would actually know: order type, city, and distance.
-- **"Delivery conditions" panel (collapsed by default)** — weather, traffic, festival day, and delivery-partner details. In a live product these would come from a weather/maps API and partner assignment, not the customer, so they're defaulted sensibly here and left adjustable for testing.
+- **"Delivery conditions" panel (collapsed by default)** — weather, traffic, festival day, and delivery-partner details. In a live product, these would come from a weather/maps API and partner assignment, not the customer, so they're defaulted sensibly here and left adjustable for testing.
 - **Instant prediction** with a styled result card.
 - **Live model performance metrics** in the sidebar, loaded directly from the trained model's evaluation — not hardcoded.
 
